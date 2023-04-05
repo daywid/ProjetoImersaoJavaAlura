@@ -1,2 +1,2 @@
 # ProjetosImersaoJavaAlura
-códigos criados na imersão de java da Alura
+Códigos desenvolvidos durante a imersão de java da Alura.
